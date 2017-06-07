@@ -5,12 +5,14 @@
 
 .title2 {
     color: red;
+    font-family: monospace;
     text-align: center;
 }
 
 .title3 {
     color: blue;
     text-align: center;
+    font-family: monospace;
     width: 100%;
 }
 
@@ -31,9 +33,9 @@
 .block {
     border-style: solid;
     border-top: none;
-    border-bottom: black, 1px;
+    border-bottom: grey, .3px;
     border-left: none;
     border-right: none;
-    max-width:45%;
+    max-width:14%;
     margin-left:27.5%;
 }
