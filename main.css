@@ -33,7 +33,7 @@
 .block {
     border-style: solid;
     border-top: none;
-    border-bottom: black, .3px;
+    border-bottom: grey, .3px;
     border-left: none;
     border-right: none;
     max-width:14%;
