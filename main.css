@@ -5,12 +5,14 @@
 
 .title2 {
     color: red;
+    font-family: monospace;
     text-align: center;
 }
 
 .title3 {
     color: blue;
     text-align: center;
+    font-family: monospace;
     width: 100%;
 }
 
