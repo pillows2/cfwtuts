@@ -1,0 +1,39 @@
+.title {
+    font-family: monospace;
+    text-align: center;
+}
+
+.title2 {
+    color: red;
+    text-align: center;
+}
+
+.title3 {
+    color: blue;
+    text-align: center;
+    width: 100%;
+}
+
+.water {
+    font-family: "Century Gothic";
+    text-align: left;
+}
+
+.regText {
+    font-family: monospace;
+    color="#2B547E";
+    text-decoration: none;
+    text-align: center;
+    max-width: 30%;
+    margin-left: 35%;
+}
+
+.block {
+    border-style: solid;
+    border-top: none;
+    border-bottom: black, 1px;
+    border-left: none;
+    border-right: none;
+    max-width:45%;
+    margin-left:27.5%;
+}
