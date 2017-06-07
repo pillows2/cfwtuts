@@ -33,9 +33,9 @@
 .block {
     border-style: solid;
     border-top: none;
-    border-bottom: black, 1px;
+    border-bottom: black, .3px;
     border-left: none;
     border-right: none;
-    max-width:20%;
+    max-width:14%;
     margin-left:27.5%;
 }
