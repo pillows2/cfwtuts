@@ -3,7 +3,7 @@
     text-align: center;
 }
 
-.title2 {
+.updated {
     color: red;
     font-family: monospace;
     text-align: center;
@@ -16,16 +16,24 @@
     width: 100%;
 }
 
-.water {
-    font-family: "Century Gothic";
+.credits {
+    font-family: monospace;
     text-align: left;
 }
 
-.regText {
+.news {
     font-family: monospace;
     color="#2B547E";
     text-decoration: none;
     text-align: center;
     max-width: 30%;
+    margin-left: 35%;
+}
+
+.regtext {
+    font-family: monospace;
+    color="black";
+    text-align: center;
+    max-width: 39%
     margin-left: 35%;
 }
