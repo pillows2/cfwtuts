@@ -29,13 +29,3 @@
     max-width: 30%;
     margin-left: 35%;
 }
-
-.block {
-    border-style: solid;
-    border-top: none;
-    border-bottom: grey, .3px;
-    border-left: none;
-    border-right: none;
-    max-width:20%;
-    margin-left:0%;
-}
