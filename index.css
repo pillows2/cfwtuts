@@ -1,12 +1,44 @@
-.box-blue {
-margin:0 0 10px;
-overflow:hidden;
-padding:20px;
-background-color:#ff4f89;
-border:3px solid #afcde3;
--webkit-border-radius: 5px;
-border-radius: 5px;
+/* Colored Content Boxes */
+.box-blue,
+.box-gray,
+.box-green,
+.box-grey,
+.box-red,
+.box-yellow {
+	margin:0 0 10px;
+	overflow:hidden;
+	padding:2px;
+	-webkit-border-radius: 1px;
+        border-radius: 5px; 
 }
 
--webkit-border-radius: 10px;
-border-radius: 10px;
+.box-blue {
+	background-color:#d8ecf7;
+	border:1px solid #afcde3;
+}
+
+.box-gray {
+	background-color:#e2e2e2;
+	border:1px solid #bdbdbd;
+}
+
+.box-green {
+	background-color:#d9edc2;
+	border:1px solid #b2ce96;
+}
+
+.box-grey {
+	background-color:#F5F5F5;
+	border:1px solid #DDDDDD;
+}
+
+.box-red {
+	background-color:#f9dbdb;
+	border:1px solid #e9b3b3;
+}
+
+.box-yellow {
+	background-color:#fef5c4;
+	border:1px solid #fadf98;
+  width:180px
+}
