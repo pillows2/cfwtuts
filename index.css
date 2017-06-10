@@ -1,9 +1,9 @@
 .box-blue {
-margin:0 0 25px;
+margin:0 0 10px;
 overflow:hidden;
 padding:20px;
 background-color:#ff4f89;
-border:15px solid #afcde3;
+border:3px solid #afcde3;
 -webkit-border-radius: 5px;
 border-radius: 5px;
 }
