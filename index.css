@@ -33,8 +33,9 @@
 }
 
 .box-red {
-	background-color:#f9dbdb;
-	border:1px solid #e9b3b3;
+	background-color:#fef5c4;
+	border:1px solid #fadf98;
+  width:180px
 }
 
 .box-yellow {
