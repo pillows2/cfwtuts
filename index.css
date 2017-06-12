@@ -1,45 +1,52 @@
 /* Colored Content Boxes */
+
 .box-blue,
 .box-gray,
 .box-green,
 .box-grey,
 .box-red,
 .box-yellow {
-	margin:0 0 10px;
-	overflow:hidden;
-	padding:2px;
-	-webkit-border-radius: 1px;
-        border-radius: 5px; 
+  margin: 0 0 10px;
+  overflow: hidden;
+  padding: 2px;
+  -webkit-border-radius: 1px;
+  border-radius: 5px;
 }
 
 .box-blue {
-	background-color:#d8ecf7;
-	border:1px solid #afcde3;
+  background-color: #d8ecf7;
+  border: 1px solid #afcde3;
 }
 
 .box-gray {
-	background-color:#e2e2e2;
-	border:1px solid #bdbdbd;
+  background-color: #e2e2e2;
+  border: 1px solid #bdbdbd;
 }
 
 .box-green {
-	background-color:#d9edc2;
-	border:1px solid #b2ce96;
+  background-color: #d9edc2;
+  border: 1px solid #b2ce96;
 }
 
 .box-grey {
-	background-color:#F5F5F5;
-	border:1px solid #DDDDDD;
+  background-color: #F5F5F5;
+  border: 1px solid #DDDDDD;
 }
 
 .box-red {
-	background-color:#f9dbdb;
-  	border:1px solid #e9b3b3;
-  	width:180px
+  background-color: #f9dbdb;
+  border: 1px solid #e9b3b3;
+  width: 180px
 }
 
 .box-yellow {
-	background-color:#fef5c4;
-	border:1px solid #fadf98;
-  	width:180px
+  background-color: #fef5c4;
+  border: 1px solid #fadf98;
+  width: 180px
+}
+
+.infoselect {
+  background-color: #edeeef;
+  border: 2px solid #686868;
+  width: 130px
 }
